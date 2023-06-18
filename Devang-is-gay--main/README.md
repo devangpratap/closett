@@ -13,12 +13,7 @@
     A guide for queer people to aid in one of the most well-known LGBTQIA+ milestones: coming out!
     <br />
     <br />
-    <a href="https://bgtco.glitch.me">View Website</a>
-    ·
-    <a href="https://github.com/sningle/BGTCO/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/sningle/BGTCO/issues">Request Feature</a>
-  </p>
+    
 </div>
 
 <!-- ABOUT THE PROJECT -->
